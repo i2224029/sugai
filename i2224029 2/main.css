@@ -1,0 +1,18 @@
+ body {
+     background: #efefef;
+ }
+
+ .menu {
+     display: flex;
+     list-style: none;
+ }
+
+ .menu li {
+     margin: 16px;
+ }
+
+ .wrap {
+     max-width: 600px;
+     margin: auto;
+     background: #ffffff;
+ }

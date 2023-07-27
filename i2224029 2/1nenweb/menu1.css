@@ -1,0 +1,54 @@
+body{
+    margin:0px;
+}
+
+#which{
+    width: 500px;
+    height: 100px;
+    margin: 0px;
+    list-style-type: none;
+    text-align: center;
+    margin: auto;
+
+}
+
+#which li{
+    width:200px;
+    float:left;
+    text-align:center;
+}
+
+#which li.which1 a{
+    width:180px;
+    height:100px;
+    color:white;
+    font-size:1%;
+    background:url(image/instrument.jpg);
+    text-decoration:none;
+    display:block;
+    text-indent:-999999px;
+
+
+}
+
+#which li.which1 a:hover{
+    color:#ffffff;
+    background:url(image/instrument_hover.jpg);
+}
+
+#which li.which2 a{
+    width:180px;
+    height:100px;
+    color:black;
+    font-size:1%;
+    background:url(image/dance.jpg);
+    text-decoration:none;
+    display:block;
+
+
+}
+
+#which li.which2 a:hover{
+    color:#ffffff;
+    background:url(image/dance.hoverjpg.jpg);
+}

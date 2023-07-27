@@ -1,0 +1,11 @@
+html {
+    background-color: rgb(53, 52, 52); /* 周囲の背景色 */
+    background-image:url(image/hosi.PNG);
+ }
+ body {
+    margin: 150px;   /* 外側の余白を30pxに */
+    padding: 0px;   /* 内側の余白を消す */
+    background-color: #ffffffb7; /* 本文部分の背景色 */
+ }
+ 
+ 

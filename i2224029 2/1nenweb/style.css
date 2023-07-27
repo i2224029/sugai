@@ -1,0 +1,32 @@
+.background{
+    background-image: url(image/toppage.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: black;
+}
+
+
+#top{
+    margin-top: 200px;
+    font-family:serif;
+    font-size:xx-large;
+    color: #ffffff;
+    text-align: center;
+}
+
+#middle{
+    margin: 50px;
+    text-align: center;
+}
+
+#bottom{
+    margin: 200px;
+    height: 200px;
+    text-align: center;
+    color: #ffffff;
+    font-size:xx-large;
+    font-family:serif;
+}
+
+

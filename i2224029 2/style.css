@@ -1,0 +1,32 @@
+.background{
+    background-image: url(image/hosi.PNG);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: black;
+}
+
+
+#top{
+    margin-top: 200px;
+    font-family:serif;
+    font-size:xx-large;
+    color: #000000;
+    text-align: center;
+}
+
+#middle{
+    margin: 50px;
+    text-align: left;
+}
+
+#bottom{
+    margin: 200px;
+    height: 200px;
+    text-align:left;
+    color: #ffffff;
+    font-size:xx-large;
+    font-family:serif;
+}
+
+

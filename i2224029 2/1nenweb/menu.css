@@ -1,0 +1,88 @@
+body{
+    margin:0px;
+}
+
+#menu{
+    width:1100px;
+    height: 100px;
+    margin:0px;
+    padding:20px;
+    list-style-type: none;
+    background-color: white;
+
+}
+
+#menu li{
+    width:200px;
+    float:left;
+    text-align:center;
+}
+
+#menu li.menu1 a{
+    width:180px;
+    height:100px;
+    color:black;
+    font-size:1%;
+    background:url(image/jazz.jpg);
+    text-decoration:none;
+    display:block;
+    text-indent:-999999px;
+
+
+}
+
+#menu li.menu1 a:hover{
+    color:#ffffff;
+    background:url(image/jazz_hover.jpg);
+}
+
+#menu li.menu2 a{
+    width:180px;
+    height:100px;
+    color:black;
+    font-size:1%;
+    background:url(image/instrument.jpg);
+    text-decoration:none;
+    display:block;
+
+
+}
+
+#menu li.menu2 a:hover{
+    color:#ffffff;
+    background:url(image/instrument_hover.jpg);
+}
+
+#menu li.menu3 a{
+    width:180px;
+    height:100px;
+    color:black;
+    font-size:1%;
+    background:url(image/dance.jpg);
+    text-decoration:none;
+    display:block;
+
+
+}
+
+#menu li.menu3 a:hover{
+    color:#ffffff;
+    background:url(image/dance.hoverjpg.jpg);
+}
+
+#menu li.menu4 a{
+    width:180px;
+    height:100px;
+    color:black;
+    font-size:1%;
+    background:url(image/profile.jpg);
+    text-decoration:none;
+    display:block;
+
+
+}
+
+#menu li.menu4 a:hover{
+    color:#ffffff;
+    background:url(image/profile_hover.jpg);
+}
